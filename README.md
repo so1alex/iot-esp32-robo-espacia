@@ -21,7 +21,7 @@ O circuito foi montado virtualmente utilizando os seguintes componentes:
 
 ## 🔗 Link do Projeto no Wokwi
 Acesse a simulação interativa diretamente pelo navegador:
-👉 [CLIQUE AQUI PARA ACESSAR O PROJETO NO WOKWI](COLE_AQUI_O_LINK_DO_SEU_WOKWI)
+👉 [(https://wokwi.com/projects/463750998187914241)]
 
 ---
 
